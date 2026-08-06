@@ -107,12 +107,10 @@
   
 </div>
 
----
 
 <!-- Social & Contact -->
 <div align="center">
-  
-  ---
+
   
   ### 📈 Profile Views
   
