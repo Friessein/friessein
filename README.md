@@ -123,7 +123,33 @@
   
   ### 🔥 Contribution Activity
   
-  <img src="https://ghchart.rshah.org/58a6ff/Friessein" alt="Contribution Graph" style="width: 100%; max-width: 800px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58a6ff/Friessein" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/3b82f6/Friessein" />
+    <img src="https://ghchart.rshah.org/58a6ff/Friessein" alt="Contribution Graph" style="width: 100%; max-width: 850px; border-radius: 12px; box-shadow: 0 4px 20px rgba(88, 166, 255, 0.15);" />
+  </picture>
+  
+  <br/><br/>
+  
+  <!-- Enhanced Contribution Stats -->
+  <table align="center" style="border-collapse: separate; border-spacing: 10px;">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 10px; padding: 15px 25px; border: 1px solid #30363d;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Friessein&show_icons=true&theme=radical&count_private=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars,commits,prs,issues,contribs" alt="Total Contributions" width="380" />
+      </td>
+      <td align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 10px; padding: 15px 25px; border: 1px solid #30363d;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Friessein&theme=react-dark&area=true&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=0d1117&title_color=58a6ff&bg_color=0d1117" alt="Activity Graph" width="380" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <!-- Weekly Contribution Heatmap -->
+  <div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 12px; padding: 20px; border: 1px solid #30363d; display: inline-block;">
+    <h4 style="color: #58a6ff; margin-bottom: 15px;">📊 Weekly Activity Pattern</h4>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Friessein&theme=radical&utcOffset=8" alt="Productive Time" style="border-radius: 8px;" />
+  </div>
   
 </div>
 
