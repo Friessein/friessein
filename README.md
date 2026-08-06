@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Friessein&fontSize=70&fontColor=ffffff&animation=twinkle&fontAlignY=38" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Friessein&fontSize=80&fontColor=ffffff&animation=twinkle&fontAlignY=38" alt="Header Banner" />
 </div>
 
 <br/>
@@ -37,29 +37,55 @@
   
   <table>
     <tr>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
         <br/><sub>JavaScript</sub>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
         <br/><sub>Python</sub>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
         <br/><sub>React</sub>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
         <br/><sub>Node.js</sub>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
         <br/><sub>Git</sub>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
         <br/><sub>Docker</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+        <br/><sub>TypeScript</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind"/>
+        <br/><sub>Tailwind</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+        <br/><sub>Figma</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+        <br/><sub>PostgreSQL</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+        <br/><sub>MongoDB</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+        <br/><sub>Linux</sub>
       </td>
     </tr>
   </table>
@@ -76,53 +102,39 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Friessein&show_icons=true&theme=radical&count_private=true&hide_rank=false" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Friessein&show_icons=true&theme=radical&count_private=true&hide_rank=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friessein&layout=compact&theme=radical&hide=html" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friessein&layout=compact&theme=radical&hide=html&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Friessein&theme=radical&borderRadius=8)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Friessein&theme=radical&borderRadius=12&background=%230d1117&ring=%2358a6ff&fire=%2358a6ff)
   
 </div>
 
 ---
 
-<!-- Projects Section -->
+<!-- Activity Graph -->
 <div align="center">
   
-  ### 🚀 Featured Projects
+  ### 🔥 Contribution Activity
   
-  | Project | Description | Tech |
-  |---------|-------------|------|
-  | **Project One** | A brief description of your amazing project | React, Node.js |
-  | **Project Two** | Another cool thing you've built | Python, Django |
-  | **Project Three** | Something else you're proud of | JavaScript, API |
-  
-  > 💡 *Want to see more? Check out my [repositories](https://github.com/Friessein?tab=repositories)*
+  <img src="https://ghchart.rshah.org/58a6ff/Friessein" alt="Contribution Graph" style="width: 100%; max-width: 800px;" />
   
 </div>
 
 ---
 
-<!-- Social & Contact -->
+<!-- Profile Views -->
 <div align="center">
   
-  ### 🌐 Connect With Me
+  ### 👾 Visitor Count
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
-  ---
-  
-  ### 📈 Profile Views
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Friessein&color=0e75b6&label=Profile%20Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Friessein&color=58a6ff&label=Visitors&style=flat-square)
   
   ---
   
@@ -135,15 +147,12 @@
 <!--
 🎨 Customization Tips:
 1. Replace "Friessein" with your actual GitHub username
-2. Update social media links with your profiles
-3. Modify the tech stack icons to match your skills
-4. Add real project descriptions in the Featured Projects section
-5. Change color themes by modifying theme parameters in the stats URLs
-6. Add more badges from https://shields.io/
+2. Modify the tech stack icons to match your skills
+3. Change color themes by modifying theme parameters in the stats URLs
+4. Try different gradient colors in the header banner
 
 🔧 Useful Resources:
 - GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
 - Dev Icons: https://devicon.dev/
-- Shields.io Badges: https://shields.io/
 - Capsule Render: https://github.com/kyechan99/capsule-render
 -->
