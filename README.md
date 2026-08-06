@@ -127,12 +127,14 @@
   
 </div>
 
----
 
 <!-- Profile Views -->
 <div align="center">
   
   ### 👾 Visitor Count
+
+  
+  ### 📈 Profile Views
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Friessein&color=58a6ff&label=Visitors&style=flat-square)
   
